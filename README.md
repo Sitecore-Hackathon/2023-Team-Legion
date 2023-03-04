@@ -25,3 +25,10 @@
 -   Sitecore PowerShell Extensions 6.4
 -   Sitecore Headless Rendering 21.0.0
 -   Sitecore Experience Accelerator 10.3.0
+
+## Installation instructions
+
+> - Go to Development Tools -> Installation Wizard.
+> - Upload the [package](/docs/ModuleConvertor.zip).
+> - Click on Install and wait for the installation process to finish.
+> - Restart the Sitecore client after installation is finished
