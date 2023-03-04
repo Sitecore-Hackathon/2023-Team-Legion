@@ -10,6 +10,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{F2284F33-B7C8-4EA4-9E7F-89B7681B614F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{FC865FA7-667A-4684-A40E-E578CFB90F42}"
+	ProjectSection(SolutionItems) = preProject
+		Project\TeamLegion.Project.module.json = Project\TeamLegion.Project.module.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".SolutionItems", ".SolutionItems", "{6B34F7BE-9DD2-4E82-BB66-006D078144EC}"
+	ProjectSection(SolutionItems) = preProject
+		sitecore.json = sitecore.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

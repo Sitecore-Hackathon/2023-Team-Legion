@@ -1,0 +1,10 @@
+{
+  "$schema": "./.sitecore/schemas/RootConfigurationFile.schema.json",
+  "modules": [
+    "*/*.module.json"
+  ],
+  "serialization": {
+    "defaultMaxRelativeItemPathLength": 120,
+    "defaultModuleRelativeSerializationPath": "serialization"
+  }
+}
