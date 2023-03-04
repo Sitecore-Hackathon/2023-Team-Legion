@@ -14,7 +14,7 @@
 
 ⟹ Sitecore SXA module: RenderingConverter.
 
--   Convert SXA controller renderings to Json rendering
+-   Convert SXA controller renderings to Headless Json rendering
 -   Our module helps to extend standard Headless Experience Accelerator with renderings from Sitecore Experience Accelerator
 
 ## Pre-requisites and Dependencies
