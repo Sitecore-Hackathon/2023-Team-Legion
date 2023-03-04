@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamLegion.Project", "Project\code\TeamLegion.Project.csproj", "{55CF4D09-5D33-46A7-9311-F1D53017E04E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{1C0FFA6A-3933-46FC-8699-6D99FE4D89BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{F2284F33-B7C8-4EA4-9E7F-89B7681B614F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{FC865FA7-667A-4684-A40E-E578CFB90F42}"
+	ProjectSection(SolutionItems) = preProject
+		Project\TeamLegion.Project.module.json = Project\TeamLegion.Project.module.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".SolutionItems", ".SolutionItems", "{6B34F7BE-9DD2-4E82-BB66-006D078144EC}"
+	ProjectSection(SolutionItems) = preProject
+		sitecore.json = sitecore.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CF4D09-5D33-46A7-9311-F1D53017E04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CF4D09-5D33-46A7-9311-F1D53017E04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CF4D09-5D33-46A7-9311-F1D53017E04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CF4D09-5D33-46A7-9311-F1D53017E04E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55CF4D09-5D33-46A7-9311-F1D53017E04E} = {FC865FA7-667A-4684-A40E-E578CFB90F42}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E5CE36-4326-47A5-8E1D-4A4CC9C5EB75}
+	EndGlobalSection
+EndGlobal

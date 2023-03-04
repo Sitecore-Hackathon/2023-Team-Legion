@@ -1,0 +1,21 @@
+{
+  "namespace": "TeamLegion.Project",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "sitecore.content",
+        "path": "/sitecore/content/TeamLegion",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "API Keys",
+        "path": "/sitecore/system/Settings/Services/API Keys",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}
